@@ -1,1 +1,1 @@
-Text de prova per a calcular el hash.
+Text de prova per a calcular el hash2.
