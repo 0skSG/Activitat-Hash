@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Text; //Llibreria necesaria per el UTF8
+using System.Linq;
 using System.Security.Cryptography; //Llibreria per poder instancia SHA512
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace ActivitatHash
 {
